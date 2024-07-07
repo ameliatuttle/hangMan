@@ -6,7 +6,7 @@ This program is a simple command line app written in Kotlin that lets a user pla
 
 My purpose for writing this program is to increase my coding ability by expanding the languages I know and give IntelliJ a second chance. I downloaded IntelliJ when I was learning Java and I really didn't like it. I do understand that it's an important tool to learn and that it's important to branch out of what I am comfortable in so that I don't become complacent or a lazy learner. 
 
-[Software Demo Video]([http://youtube.link.goes.here](https://www.youtube.com/watch?v=yS-3bJDv7Vo))
+[Software Demo Video](https://www.youtube.com/watch?v=yS-3bJDv7Vo)
 
 # Development Environment
 
